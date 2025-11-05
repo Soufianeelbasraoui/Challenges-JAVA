@@ -8,7 +8,6 @@ public class Challenges4 {
             int choix;
 
             do {
-
                 System.out.println("\n=== Distributeur Automatique ===");
                 System.out.println("1. Consulter le solde");
                 System.out.println("2. Dépôt");
